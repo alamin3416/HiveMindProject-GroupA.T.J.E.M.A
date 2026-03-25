@@ -1,0 +1,59 @@
+# ΑΛ ΑΜΙΝ
+
+1. Reduce the time spent resolving contradictory information from 30 minutes to under 5 minutes.
+
+2. Users report 100% confidence that the information they found is the most up-to-date version.
+
+3. Users find answers in "one stop" rather than checking 2–3 different places.
+
+4. New starters can identify their "core systems" within the first day without feeling "lost".
+
+---
+
+# Enosch
+
+1. When people use the platform, they can find the things they need like documents and tasks and contacts in just a few clicks.
+
+2. The platform is easy to use so people can figure out what they need to do quickly usually in about thirty seconds.
+
+3. People who use the platform feel more confident that the information they are looking at is current. They rate this confidence pretty high usually four or five out of five.
+
+4. The platform is also helpful for users because they do not have to ask their colleagues as many questions to get the basic information they need.
+
+5. When new users are getting started, they can complete all the tasks they need to do without getting confused or needing help, from someone.
+
+---
+
+# ASTHA
+
+1. New employees feel confident within their first week of onboarding
+
+2. Reduced number of times employees need to ask multiple people the same question
+
+3. Faster access to accurate and consistent information
+
+4. Clear understanding of daily tasks and priorities
+
+5. Reduced onboarding time, with employees becoming independent more quickly
+
+6. Lower stress levels during the first few weeks
+
+7. Increased use of a centralised system or dashboard (if implemented)
+
+8. Higher trust in information sources, including AI tools if used
+
+9. Fewer mistakes caused by incorrect or unclear information
+
+---
+
+# JOY
+
+1. Employees can access key information from a single dashboard without needing to check multiple sources or ask multiple people.
+
+2. New Employees report that onboarding feels relevant to their role and helps them perform real job tasks.
+
+3. New Employees can clearly understand what to do next during onboarding and complete their first week's tasks without feeling lost.
+
+4. Employees can find consistent and verified answers without needing to cross-check multiple people or sources.
+
+5. Employees report higher trust in AI-generated answers when sources and explanations are shown and require less manual verification.
